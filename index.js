@@ -10,18 +10,18 @@ console.log(age);
 let favcolor = "my fav color is red"
 console.log(favcolor);
 
-let number1="the first number 100";
-let number2="the second number 8";
-let number3="the third number 32";
-let addition ="100 + 8 + 32= 140";
-let subtraction ="100 - 8 - 32 = 60";
-let multiplication ="100 x 8 x 32 = 25600";
-let division ="100 / 8 / 32 = 0.390625";
+let num1="100";
+let num2="8";
+let num3="32";
+let addition = num1 + num2 + num3;
+let subtraction = num1 - num2 - num3 ;
+let multiplication = num1 * num2 * num3;
+let division = num1 / num2 / num3 ;
 
-console.log(number1)
-console.log(number2)
-console.log(number3)
-console.log(addition)
-console.log(subtraction)
-console.log(multiplication)
-console.log(division)
+console.log(num1 = 100)
+console.log(num2 = 8 )
+console.log(num3 = 32)
+console.log(addition + add)
+console.log(subtraction + add)
+console.log(multiplication + add)
+console.log(division + add)
